@@ -17,5 +17,5 @@ In my spare time, I created a YouTube channel called [StudyStream+](https://www.
 
 ## Hobby Projects
 
-1. [Discord Bot](https://github.com/revalgovender/ralph_knows)
+1. [Age of Empires Discord Bot](https://github.com/revalgovender/ralph_knows)
 2. [ESPN Statsguru Scraper](https://github.com/revalgovender/espn-statsguru-scraper)
