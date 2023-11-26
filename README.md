@@ -20,5 +20,5 @@ List of tutorials and courses I created for my engineering YouTube channel, [Stu
 
 ## Hobby
 
-1. [Discord Bot - Ralph Knows](https://github.com/revalgovender/ralph_knows)
+1. [Discord Bot](https://github.com/revalgovender/ralph_knows)
 2. [ESPN Statsguru Scraper](https://github.com/revalgovender/espn-statsguru-scraper)
