@@ -15,7 +15,7 @@ In my spare time, I created a YouTube channel called [StudyStream+](https://www.
 6. [CVS Manipulation tutorial](https://github.com/revalgovender/python-csv)
 7. [GSCE Computer Science Exam 2022 Walkthrough](https://www.youtube.com/watch?v=bmrVVtvtZGY&list=PLrIm-p2rpV0GPRWPRRinrBCQ0DgKKQkIY)
 
-## Hobby
+## Hobby Projects
 
 1. [Discord Bot](https://github.com/revalgovender/ralph_knows)
 2. [ESPN Statsguru Scraper](https://github.com/revalgovender/espn-statsguru-scraper)
