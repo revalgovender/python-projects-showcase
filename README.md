@@ -3,9 +3,14 @@
 This space is dedicated to showcasing some of the projects I've worked on to demonstrate my skills as a senior software
 engineer specialising in Python. Below, you'll find a list projects that highlight various aspects of my expertise.
 
+## Django Projects
+
+1. [Simple Django Rest Framework API](https://github.com/revalgovender/django-drinks-crud-api)
+
 ## StudyStream+
 
-In my spare time, I created a YouTube channel called [StudyStream+](https://www.youtube.com/@StudyStreamPlus) with over 6k subscribers. It is a place for me to showcase skills and share knowledge with the community.
+In my spare time, I created a YouTube channel called [StudyStream+](https://www.youtube.com/@StudyStreamPlus) with over
+6k subscribers. It is a place for me to showcase skills and share knowledge with the community. Here are some highlights from the channel:
 
 1. [Bubble Sort Algorithm](https://github.com/study-stream-plus/bubble-sort)
 2. [Binary Search Algorithm](https://github.com/study-stream-plus/binary-search)
