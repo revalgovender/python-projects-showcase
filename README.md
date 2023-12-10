@@ -7,7 +7,7 @@ engineer specialising in Python. Below, you'll find a list projects that highlig
 
 1. [Create Payouts For Seller API Excercise - Django](https://github.com/revalgovender/django-api-exercise)
 2. [Bank Account REST API Exercise - Fast Api](https://github.com/revalgovender/bank-fast-api)
-3. [Simple Django Rest Framework API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
+3. [Simple API Implementation - Django Rest Framework](https://github.com/revalgovender/django-drinks-crud-api)
 
 
 ## StudyStream+
