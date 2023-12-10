@@ -3,10 +3,12 @@
 This space is dedicated to showcasing some of the projects I've worked on to demonstrate my skills as a senior software
 engineer specialising in Python. Below, you'll find a list projects that highlight various aspects of my expertise.
 
-## Django Projects
+## Framework Projects
 
-1. [Create Payouts For Seller API](https://github.com/revalgovender/django-api-exercise)
-2. [Simple Django Rest Framework API](https://github.com/revalgovender/django-drinks-crud-api)
+1. [Create Payouts For Seller API Excercise - Django](https://github.com/revalgovender/django-api-exercise)
+2. [Bank Account REST API Exercise - Fast Api](https://github.com/revalgovender/bank-fast-api)
+3. [Simple Django Rest Framework API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
+
 
 ## StudyStream+
 
