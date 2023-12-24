@@ -3,11 +3,17 @@
 This space is dedicated to showcasing some of the projects I've worked on to demonstrate my skills as a senior software
 engineer specialising in Python. Below, you'll find a list projects that highlight various aspects of my expertise.
 
+## Passion Project
+
+Django-based API for sorting YouTube pro-wrestling highlights. It demonstrates expertise in Docker, Django Framework, and API development with a focus on multimedia content management.
+
+1. [Repository for API](https://github.com/revalgovender/wrestling-sorted/tree/main)
+
 ## Framework Exercises
 
-1. [Create Payouts For Seller API Excercise - Django](https://github.com/revalgovender/django-api-exercise)
-2. [Bank Account REST API Exercise - Fast Api](https://github.com/revalgovender/bank-fast-api)
-3. [Simple API Implementation - Django Rest Framework](https://github.com/revalgovender/django-drinks-crud-api)
+1. [Django - Create Payouts For Seller API](https://github.com/revalgovender/django-api-exercise)
+2. [Fast Api - Bank Account REST API](https://github.com/revalgovender/bank-fast-api)
+3. [Django Rest Framework - Simple API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
 
 
 ## StudyStream+
