@@ -7,7 +7,7 @@ engineer specialising in Python. Below, you'll find a list projects that highlig
 
 Django-based API for sorting YouTube pro-wrestling highlights. It demonstrates expertise in Docker, Django Framework, and API development with a focus on multimedia content management.
 
-1. [Repository for API](https://github.com/revalgovender/wrestling-sorted/tree/main)
+1. [Repository for API](https://github.com/revalgovender/wrestling-sorted)
 
 ## Framework Exercises
 
