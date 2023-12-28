@@ -5,7 +5,7 @@ engineer specialising in Python. Below, you'll find a list projects that highlig
 
 ## Passion Project
 
-Django-based API for sorting YouTube pro-wrestling highlights. It demonstrates expertise in Docker, Django Framework, and API development with a focus on multimedia content management.
+Django-based API for sorting YouTube pro-wrestling highlights. It demonstrates expertise in Docker Compose, Django Framework and API development.
 
 1. [Repository for API](https://github.com/revalgovender/wrestling-sorted)
 
