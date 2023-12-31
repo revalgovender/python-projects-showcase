@@ -1,4 +1,4 @@
-# 🐍 Python Showcase
+# Python Showcase
 
 This space is dedicated to showcasing some of the projects I've worked on to demonstrate my skills as a senior software
 engineer specialising in Python.
