@@ -5,16 +5,19 @@ engineer specialising in Python.
 
 ## ❤️ Passion Project
 
-Django-based API for sorting YouTube pro-wrestling highlights. It demonstrates expertise in Docker Compose, Django Framework and API development.
+Django-based API for sorting YouTube pro-wrestling highlights. It demonstrates expertise in Docker Compose, Django
+Framework and API development.
 
 1. [Repository for API](https://github.com/revalgovender/wrestling-sorted)
 
 ## 🏋️ Framework Exercises
 
+I am experienced in Django, Fast API and Django Rest Framework. Here are some examples of exercises I've completed to
+showcase my skills in these frameworks.
+
 1. [Django - Create Payouts For Seller API](https://github.com/revalgovender/django-api-exercise)
 2. [Fast Api - Bank Account REST API](https://github.com/revalgovender/bank-fast-api)
 3. [Django Rest Framework - Simple API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
-
 
 ## 🎥 StudyStream+
 
