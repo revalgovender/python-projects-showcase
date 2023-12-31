@@ -15,8 +15,8 @@ Framework and API development.
 I am experienced in Django, Fast API and Django Rest Framework. Here are some examples of exercises I've completed to
 showcase my skills in these frameworks.
 
-1. [Django - Create Payouts For Seller API](https://github.com/revalgovender/django-api-exercise)
-2. [Fast Api - Bank Account REST API](https://github.com/revalgovender/bank-fast-api)
+1. [Django - Create Payouts For Seller API (4hr time limit)](https://github.com/revalgovender/django-api-exercise)
+2. [Fast Api - Bank Account REST API (4hr time limit)](https://github.com/revalgovender/bank-fast-api)
 3. [Django Rest Framework - Simple API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
 
 ## 🎥 StudyStream+
