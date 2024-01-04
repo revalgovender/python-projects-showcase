@@ -12,7 +12,7 @@ Framework and API development.
 2. [Swagger Docs](https://wrestling-sorted-api-7f40c4b67ace.herokuapp.com/docs/)
 3. [Production Endpoint - List Show's Highlights](https://wrestling-sorted-api-7f40c4b67ace.herokuapp.com/v1/tv_shows/1/episodes/2023-12-18/highlights/)
 
-## 🏋️ Framework Exercises
+## 🏋️ Framework Challenges
 
 I am experienced in Django, Fast API and Django Rest Framework. Here are some examples of exercises I've completed to
 showcase my skills in these frameworks.
