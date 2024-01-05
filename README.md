@@ -20,7 +20,7 @@ showcase my skills in these frameworks.
 1. [Django - Create Payouts For Seller API (4hr time limit)](https://github.com/revalgovender/django-api-exercise)
 2. [Fast Api - Bank Account REST API (4hr time limit)](https://github.com/revalgovender/bank-fast-api)
 3. [Django Rest Framework - Simple API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
-4. [People Matching](https://github.com/revalgovender/people-matching-python)
+4. [People Matching (45min time limit)](https://github.com/revalgovender/people-matching-python)
 
 ## 🎥 StudyStream+
 
