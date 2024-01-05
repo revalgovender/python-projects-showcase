@@ -12,7 +12,7 @@ Framework and API development.
 2. [Swagger Docs](https://wrestling-sorted-api-7f40c4b67ace.herokuapp.com/docs/)
 3. [Production Endpoint - List Show's Highlights](https://wrestling-sorted-api-7f40c4b67ace.herokuapp.com/v1/tv_shows/1/episodes/2023-12-18/highlights/)
 
-## 🏋️ Framework Challenges
+## 🏋️ Framework and Code Challenges
 
 I am experienced in Django, Fast API and Django Rest Framework. Here are some examples of exercises I've completed to
 showcase my skills in these frameworks.
@@ -20,6 +20,7 @@ showcase my skills in these frameworks.
 1. [Django - Create Payouts For Seller API (4hr time limit)](https://github.com/revalgovender/django-api-exercise)
 2. [Fast Api - Bank Account REST API (4hr time limit)](https://github.com/revalgovender/bank-fast-api)
 3. [Django Rest Framework - Simple API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
+4. [People Matching](https://github.com/revalgovender/people-matching-python)
 
 ## 🎥 StudyStream+
 
