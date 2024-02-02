@@ -9,8 +9,6 @@ Django API for sorting YouTube pro-wrestling highlights. It demonstrates experti
 Framework and API development.
 
 1. [Repository for API](https://github.com/revalgovender/wrestling-sorted)
-2. [Swagger Docs](https://wrestling-sorted-api-7f40c4b67ace.herokuapp.com/docs/)
-3. [Production Endpoint - List Show's Highlights](https://wrestling-sorted-api-7f40c4b67ace.herokuapp.com/v1/tv_shows/1/episodes/2023-12-18/highlights/)
 
 ## 🏋️ Framework and Code Challenges
 
