@@ -19,6 +19,7 @@ showcase my skills in these frameworks.
 2. [Fast Api - Bank Account REST API (4hr time limit)](https://github.com/revalgovender/bank-fast-api)
 3. [Django Rest Framework - Simple API Implementation](https://github.com/revalgovender/django-drinks-crud-api)
 4. [People Matching (45min time limit)](https://github.com/revalgovender/people-matching-python)
+5. [Account Balancing (1hr time limit)](https://github.com/revalgovender/account-balancing-python)
 
 ## 🎥 StudyStream+
 
